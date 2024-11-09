@@ -1,7 +1,7 @@
 
 html {
     font-size: 10px;
-    background: #ccc bottom center;
+    background: url("img/background.jpg");
     background-size: cover;
   }
   
